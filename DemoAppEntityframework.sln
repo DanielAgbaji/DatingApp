@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "ConsoleApp3.csproj", "{067A1CBB-8743-4A10-8501-8055E162D6AA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoAppEntityframework", "DemoAppEntityframework.csproj", "{067A1CBB-8743-4A10-8501-8055E162D6AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
